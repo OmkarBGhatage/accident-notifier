@@ -46,17 +46,3 @@ hospitals table (sample hospital data)
 
 notifications table (accident alerts)
 
-⚡ Folder Structure
-accident-notifier/
-├── frontend/                   # React web dashboard
-├── hardware/                   # Arduino IoT code
-│   └── bvc_car_acsidenyt.ino
-├── database/                   # MySQL schema
-│   └── accident_detection_system.sql
-└── README.md
-
-👨‍💻 Author
-
-Omkar Ghatage
-Bharati Vidyapeeth College of Engineering, Kolhapur
-📅 Final Year Project – 2025
