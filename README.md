@@ -31,18 +31,5 @@ Receives alerts, updates status, and manages emergency responses.
 Database (MySQL):
 Stores hospital data and accident notification logs.
 
-🗄️ Database Setup
 
-Open MySQL or phpMyAdmin.
-
-Run the script in:
-
-/database/accident_detection_system.sql
-
-
-This will create:
-
-hospitals table (sample hospital data)
-
-notifications table (accident alerts)
 
